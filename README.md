@@ -15,7 +15,7 @@
 
 ### Metro Cities Data :
 
-The subway system or metro trains have been benefitting the modern civilizations commute hassle-free from manay years. 
+The subway system or metro trains have been benefitting the modern civilizations commute hassle-free from many years. 
 And each year new additions are made to the already existing rail network serving millions of people everyday.
 
 Your job is to identify the underlying patterns by performing EDA using python on the metro data and gather useful
